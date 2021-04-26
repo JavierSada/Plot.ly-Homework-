@@ -1,7 +1,7 @@
 # Plot.ly Homework :gear:
 
 <p align='left'>
-<a><img height="300" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"></a>
+<a><img height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"></a>
 </p>
 
 ## Belly Button Biodiversity
